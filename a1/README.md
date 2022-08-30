@@ -1,4 +1,4 @@
-# LIS 4381 - Mobile Web Application Development
+# LIS 4331 - Mobile Web Application Development
 
 ## Ronald Tang
 
@@ -12,7 +12,6 @@
 
 #### README.md file should include the following items:
 
-* Screenshot of AMPPS Installation
 * Screenshot of running java Hello
 * Screenshot of running Android Studio - My First App
 * Git commands w/short descriptions
@@ -30,10 +29,6 @@
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
-
-![AMPPS Installation Screenshot](img/ampps.png "PHP and MySQL Screenshot")
-
 *Screenshot of running java Hello*:
 
 ![JDK Installation Screenshot](img/jdk_install.png "Java Hello Screenshot")
@@ -48,4 +43,4 @@
 [A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/ronaldtang1/bitbucketstationlocations/ "Bitbucket Station Locations")
 
 *Remote repository:*
-[My Remote Repository ](https://bitbucket.org/ronaldtang1/lis4381/ "My Remote Repository")
+[My Remote Repository ](https://bitbucket.org/ronaldtang1/lis4331/ "My Remote Repository")
