@@ -1,4 +1,4 @@
-# LIS 4331 - Mobile Web Application Development
+# LIS 4331 - Advanced Mobile Web Application Development
 
 ## Ronald Tang
 
@@ -36,6 +36,9 @@
 *Screenshot of Android Studio - My First App*:
 
 ![Android Studio Installation Screenshot](img/android.png "Android Studio Screenshot")
+
+*Screenshot of Contacts App*:
+![Contacts App Screenshot](img/contactsapp.png "Contacts Screenshot")
 
 #### Tutorial Links:
 
