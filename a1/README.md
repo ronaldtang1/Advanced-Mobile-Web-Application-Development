@@ -29,16 +29,17 @@
 
 #### Assignment Screenshots:
 
-*Screenshot of running java Hello*:
+| Screenshot of running java Hello | Screenshot of Android Studio - My First App |
+| ---------- | ---------- |
+| ![JDK Installation Screenshot](img/jdk_install.png) | ![Android Studio Installation Screenshot](img/android.png) |
 
-![JDK Installation Screenshot](img/jdk_install.png "Java Hello Screenshot")
+| Screenshot of Contacts Main Menu | Screenshot of Contacts Information: Ronald |
+| ---------- | ---------- |
+| ![Contacts Main Menu](img/Contact_main.png) | ![Ronald Information](img/Contact_ron.png) 
 
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](img/android.png "Android Studio Screenshot")
-
-*Screenshot of Contacts App*:
-![Contacts App Screenshot](img/contactsapp.png "Contacts Screenshot")
+| Screenshot of Contacts Information: Lillian | Screenshot of Contacts Information: Ronald |
+| ---------- | ---------- |
+| ![Lillian Information](img/Contact_lily.png) | ![Diego Information](img/Contact_diego.png) 
 
 #### Tutorial Links:
 
