@@ -37,9 +37,9 @@
 | ---------- | ---------- |
 | ![Contacts Main Menu](img/Contact_main.png) | ![Ronald Information](img/Contact_ron.png) 
 
-| Screenshot of Contacts Information: Lillian | Screenshot of Contacts Information: Ronald |
-| ---------- | ---------- |
-| ![Lillian Information](img/Contact_lily.png) | ![Diego Information](img/Contact_diego.png) 
+| Screenshot of Contacts Information: Lillian | Screenshot of Contacts Information: Diego | Screenshot of Contacts Information: William |
+| ---------- | ---------- | ---------- |
+| ![Lillian Information](img/Contact_lily.png) | ![Diego Information](img/Contact_diego.png) | ![William Information](img/Contact_willy.png)
 
 #### Tutorial Links:
 
