@@ -15,8 +15,9 @@
     - Provide screenshots of installations
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
-    - created Android App
-    - Provide screenshots of completed apps
+    - created Tip Calculator App
+    - Provide screenshots of populated and unpopulated interface
+    - Screenshots of skillsets 1-3
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
     - Create ERD based upon business rules
