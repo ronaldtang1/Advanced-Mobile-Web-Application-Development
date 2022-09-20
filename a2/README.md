@@ -23,7 +23,7 @@
 
 | Screenshot of Unpopulated User Interface running | Screenshot of Populated Interface running |
 | ---------- | ---------- |
-| ![First User Interface Screenshot](img/firstuser.png) | ![Second User Interface Screenshot](img/seconduser.png) |
+| ![Unpopulated User Interface Screenshot](img/unpopulated_interface.png) | ![Populated User Interface Screenshot](img/populated_interface.png) |
 
 | Skillset 1 | Skillset 2 | Skillset 3 |
 | ---------- | ---------- | ----------|
