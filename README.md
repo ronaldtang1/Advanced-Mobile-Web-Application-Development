@@ -2,7 +2,7 @@
 
 ## Ronald Tang
 
-### Lis 4331 Requirements:
+### LIS 4331 Requirements:
 
 *Course Work Links:*
 

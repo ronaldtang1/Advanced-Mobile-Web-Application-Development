@@ -1,4 +1,4 @@
-# LIS 43831 - Advanced Mobile Web Application Development
+# LIS 4331 - Advanced Mobile Web Application Development
 
 ## Ronald Tang
 
