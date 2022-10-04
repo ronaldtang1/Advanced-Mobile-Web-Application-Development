@@ -20,9 +20,9 @@
     - Screenshots of skillsets 1-3
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
-    - Create ERD based upon business rules
-    - Provide screenshot of completed ERD
-    - Provide DB resource links
+    - Created Converted Currency App
+    - Provide screenshot of splash screen, toast notification, converted currency, unpopulated interface
+    - Provide of skillsets 4-6
 
 4. [A4 README.md](a4/README.md "My A4 README.md file")
 

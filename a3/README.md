@@ -1,4 +1,4 @@
-# LIS 4381 - Mobile Web Application Development
+# LIS 43831 - Advanced Mobile Web Application Development
 
 ## Ronald Tang
 
@@ -6,52 +6,37 @@
 
 *Five Parts:*
 
-1. Created ERD 
-2. Screenshots of running application's opening user interface
-3. Screenshots of running application's processing user input
-4. Screenshots of 10 records for each table 
-5. Screenshots of skillsets
+1. Created Converted Currency Calculator
+2. Screenshots of running application's splash screen interface
+3. Screenshots of running application's unpopulated user interface
+4. Screenshots of running application's toast notification
+5. Screenshots of running application's converted currency
+6. Screenshots of skillsets
 
 #### README.md file should include the following items:
 
-* Screenshots of running application's opening user interface
-* Screenshots of running application's processing user input
+* Screenshots of running application's splash screen interface
+* Screenshots of running application's unpopulated user interface
+* Screenshots of running application's toast notification
+* Screenshots of running application's converted currency
 * Screenshots of skillsets
 * Bitbucket repo link
 
 #### Assignment Screenshots:
 
-*Screenshot of ERD*
-
-![ERD Screenshot](img/ERD.png)
-
-| Screenshot of running opening user interface | Screenshot of running user input |
+| Screenshot of running splash screen interface | Screenshot of unpopulated user input |
 | ---------- | ---------- |
-| ![First User Interface Screenshot](img/Open_interface.png) | ![Second User Interface Screenshot](img/Running_interface.png) |
+| ![Splash Screen Screenshot](img/splash_screen.png) | ![Unpopulated User Interface Screenshot](img/unpopulated_UI.png) |
 
-*Screenshot of Petstore table*
+| Screenshot of running toast notification | Screenshot of converted currency |
+| ---------- | ---------- |
+| ![Toast notification Screenshot](img/toast_notification.png) | ![Converted Currency Screenshot](img/converted_currency.png) |
 
-![Petstore Table Screenshot](img/Petstore_table.png "Petstore records")
-
-*Screenshot of Pet table*
-
-![Pet Table Screenshot](img/Pet_Table.png "Pet records")
-
-*Screenshot of Customer table*
-
-![Customer Table Screenshot](img/Customer_table.png "Customer records")
-
-| Skillset 4 | Skillset 5 | Skillset 6 |
+| Skillset 4 | Skillset 5 | Skillset 6 | 
 | ---------- | ---------- | ----------|
 | ![Screenshot of Skillset 4](img/Decision_structure.png) | ![Screenshot of Skillset 5](img/Random.png) | ![Screenshot of Skillset 6](img/Methods.png)
-
-*Link to a3.mwb*
-[a3.mwb](docs/a3.mwb)
-
-*Link to a3.sql*
-[a3.sql](docs/a3.sql)
 
 #### Bitbucket Links:
 
 *Remote repository:*
-[My Remote Repository](https://bitbucket.org/ronaldtang1/lis4381/ "My Remote Repository")
+[My Remote Repository](https://bitbucket.org/ronaldtang1/lis4331/ "My Remote Repository")
