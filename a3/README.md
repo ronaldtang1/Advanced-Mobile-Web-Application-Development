@@ -32,25 +32,21 @@
 | ---------- | ---------- |
 | ![Toast notification Screenshot](img/toast_notification.png) | ![Converted Currency Screenshot](img/converted_currency.png) |
 
-| Skillset 4 | 
-| ---------- | ---------- | ----------|
-| ![Screenshot of Skillset 4](img/time_conversion.png) | 
-
 *Skillset 4*:
 
 ![Skillset 4 Screenshot](img/time_conversion.png "Time Conversion Screenshot")
 
-| Skillset 5 |
+| Skillset 5 of No validation | Skillset 5 of Data validation |
 | ---------- | ---------- |
-| ![Screenshot of No validation](img/1_even_odd.png) | ![Screenshot of Data Validation](img/2_even_odd.mov) |
+| ![Screenshot of No validation](img/1_even_odd.png) | ![Screenshot of Data Validation](img/2_even_odd.png) |
 
-| Skillset 6 | 
-| ---------- | ---------- | ----------|
-| ![Screenshot of Message popup](img/1_paint_calculator.png) | ![Screenshot of Data Validation 1](img/2_paintn_calculator.png) | ![Screenshot of Data Validation 2](img/3_paint_calculator.mov) |
+| Skillset 6 of message popup | Data Validation 1 | Data Validation 2 |
+| ---------- | ---------- | ---------- |
+| ![Screenshot of Message popup](img/1_paint_calculator.png) | ![Screenshot of Data Validation 1](img/2_paintn_calculator.png) | ![Screenshot of Data Validation 2](img/3_paint_calculator.png) |
 
-| Skillset 6 | 
-| ---------- | ---------- | ----------|
-| ![Screenshot of Data Validation 3](img/4_paint_calculator.png) | ![Screenshot of Data Validation 4](img/5_paintn_calculator.png) | ![Screenshot of Data Validation 5](img/6_paint_calculator.mov) |
+| Continued Screenshot of skillet 6 | Data Validation 4 | Data Validation 5 |
+| ---------- | ---------- | ---------- |
+| ![Screenshot of Data Validation 3](img/4_paint_calculator.png) | ![Screenshot of Data Validation 4](img/5_paintn_calculator.png) | ![Screenshot of Data Validation 5](img/6_paint_calculator.png) |
 
 #### Bitbucket Links:
 
