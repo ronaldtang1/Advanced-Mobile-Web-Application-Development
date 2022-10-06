@@ -32,15 +32,19 @@
 | ---------- | ---------- |
 | ![Toast notification Screenshot](img/toast_notification.png) | ![Converted Currency Screenshot](img/converted_currency.png) |
 
-| Skillset 4 | Skillset 5 | Skillset 6 | 
+| Skillset 4 | 
 | ---------- | ---------- | ----------|
-| ![Screenshot of Skillset 4](img/time_conversion.png) | ![Screenshot of Skillset 5](img/even_odd.mov) | ![Screenshot of Skillset 6](img/paint_calculator.mov) |
+| ![Screenshot of Skillset 4](img/time_conversion.png) | 
 
- | Skillset 5 | 
+*Skillset 4*:
+
+![Skillset 4 Screenshot](img/time_conversion.png "Time Conversion Screenshot")
+
+| Skillset 5 |
 | ---------- | ---------- |
 | ![Screenshot of No validation](img/1_even_odd.png) | ![Screenshot of Data Validation](img/2_even_odd.mov) |
 
- | Skillset 6 | 
+| Skillset 6 | 
 | ---------- | ---------- | ----------|
 | ![Screenshot of Message popup](img/1_paint_calculator.png) | ![Screenshot of Data Validation 1](img/2_paintn_calculator.png) | ![Screenshot of Data Validation 2](img/3_paint_calculator.mov) |
 
