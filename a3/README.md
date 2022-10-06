@@ -34,14 +34,19 @@
 
 | Skillset 4 | Skillset 5 | Skillset 6 | 
 | ---------- | ---------- | ----------|
-| ![Screenshot of Skillset 4](img/time_conversion.png) | 
+| ![Screenshot of Skillset 4](img/time_conversion.png) | ![Screenshot of Skillset 5](img/even_odd.mov) | ![Screenshot of Skillset 6](img/paint_calculator.mov) |
 
-*Screenshot of running Even or Odd*:
+ | Skillset 5 | 
+| ---------- | ---------- |
+| ![Screenshot of No validation](img/1_even_odd.png) | ![Screenshot of Data Validation](img/2_even_odd.mov) |
 
-![Even or Odd Screenshot](img/even_odd.mp4 "Even or Odd Screenshot")
+ | Skillset 6 | 
+| ---------- | ---------- | ----------|
+| ![Screenshot of Message popup](img/1_paint_calculator.png) | ![Screenshot of Data Validation 1](img/2_paintn_calculator.png) | ![Screenshot of Data Validation 2](img/3_paint_calculator.mov) |
 
-*Screenshot of running Paint Calculator*:
-![Paint Calculator Screenshot](img/paint_calculator.mp4 "Paint Calculator Screenshot")
+| Skillset 6 | 
+| ---------- | ---------- | ----------|
+| ![Screenshot of Data Validation 3](img/4_paint_calculator.png) | ![Screenshot of Data Validation 4](img/5_paintn_calculator.png) | ![Screenshot of Data Validation 5](img/6_paint_calculator.mov) |
 
 #### Bitbucket Links:
 
