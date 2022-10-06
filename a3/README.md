@@ -38,10 +38,10 @@
 
 *Screenshot of running Even or Odd*:
 
-![Even or Odd Screenshot](img/even_odd.mov "Even or Odd Screenshot")
+![Even or Odd Screenshot](img/even_odd.mp4 "Even or Odd Screenshot")
 
 *Screenshot of running Paint Calculator*:
-![Paint Calculator Screenshot](img/paint_calculator.mov "Paint Calculator Screenshot")
+![Paint Calculator Screenshot](img/paint_calculator.mp4 "Paint Calculator Screenshot")
 
 #### Bitbucket Links:
 
