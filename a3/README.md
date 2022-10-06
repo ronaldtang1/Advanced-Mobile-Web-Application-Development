@@ -34,7 +34,14 @@
 
 | Skillset 4 | Skillset 5 | Skillset 6 | 
 | ---------- | ---------- | ----------|
-| ![Screenshot of Skillset 4](img/time_conversion.png) | ![Screenshot of Skillset 5](img/even_odd.mov) | ![Screenshot of Skillset 6](img/paint_calculator.mov) |
+| ![Screenshot of Skillset 4](img/time_conversion.png) | 
+
+*Screenshot of running Even or Odd*:
+
+![Even or Odd Screenshot](img/even_odd.mov "Even or Odd Screenshot")
+
+*Screenshot of running Paint Calculator*:
+![Paint Calculator Screenshot](img/paint_calculator.mov "Paint Calculator Screenshot")
 
 #### Bitbucket Links:
 
