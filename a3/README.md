@@ -34,7 +34,7 @@
 
 | Skillset 4 | Skillset 5 | Skillset 6 | 
 | ---------- | ---------- | ----------|
-| ![Screenshot of Skillset 4](img/time_conversion.png) | ![Screenshot of Skillset 5](img/even_odd.mov) | ![Screenshot of Skillset 6](img/paint_calculator.mov)
+| ![Screenshot of Skillset 4](img/time_conversion.png) | ![Screenshot of Skillset 5](img/even_odd.mov) | ![Screenshot of Skillset 6](img/paint_calculator.mov) |
 
 #### Bitbucket Links:
 
