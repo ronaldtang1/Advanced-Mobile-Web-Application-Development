@@ -46,7 +46,7 @@
 
 | Continued Screenshot of skillset 6 | Data Validation 4 | Data Validation 5 |
 | -------- | -------- | -------- |
-| ![Screenshot of Data Validation 3](img/4_paint_calculator.png) | ![Screenshot of Data Validation 4](img/5_paint_calculator.png) | ![Screenshot of Data Validation 5](img/6_paint_calculator.png) |
+| ![Screenshot of Data Validation 3](img/4_paint_calculator.png) | ![Screenshot of Data Validation 4](img/5_paint_calculator.png) | ![Screenshot of Data Validation 5](img/paint_calculator.mov) |
 
 #### Bitbucket Links:
 
