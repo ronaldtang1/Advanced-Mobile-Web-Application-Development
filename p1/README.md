@@ -28,7 +28,7 @@
 
 | Skillset 7 | Skillset 8 | Skillset 9 |
 | ---------- | ---------- | ----------|
-| ![Screenshot of Skillset 7](img/measurement_conversion.png) | ![Screenshot of Skillset 8](img/Distance_calculator.mov) | ![Screenshot of Skillset 9](img/Multiple_selection.png)
+| ![Screenshot of Skillset 7](img/measurement_conversion.png) | ![Screenshot of Skillset 8](img/ss8.gif) | ![Screenshot of Skillset 9](img/Multiple_selection.png)
 
 #### Bitbucket Link:
 
