@@ -22,9 +22,9 @@
 
 #### Assignment Screenshots:
 
-| Screenshot of running opening user interface | Screenshot of running user input |
-| ---------- | ---------- |
-| ![First User Interface Screenshot](img/Open_Interface.png) | ![Second User Interface Screenshot](img/Running_Interface.png) |
+| Screenshot of splash screen | Screenshot of play screen | Screenshot of pause screen
+| ---------- | ---------- | ---------- |
+| ![Splash Screen Screenshot](img/splash.png) | ![Play Screen Screenshot](img/Play.png) | ![Pause Screen Screenshot](img/pause.png)
 
 | Skillset 7 | Skillset 8 | Skillset 9 |
 | ---------- | ---------- | ----------|
@@ -33,4 +33,4 @@
 #### Bitbucket Link:
 
 *Remote repository:*
-[Bitbucket Repository Link](https://bitbucket.org/username/myteamquotes/ "My bitbucket repo link")
+[Bitbucket Repository Link](https://bitbucket.org/ronaldtang1/lis4331/ "My bitbucket repo link")
