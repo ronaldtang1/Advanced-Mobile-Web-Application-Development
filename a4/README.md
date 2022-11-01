@@ -24,9 +24,13 @@
 
 #### Assignment Screenshots:
 
-| Gif of running app | 
-| ---------- | 
-| ![Running app](img/app.gif) | 
+| Gif of running app | Screenshot of Splash Screen |
+| ---------- | ---------- | 
+| ![Running app](img/app.gif) | ![Screenshot of Splash Screen](img/Splash.png) |
+
+| Screenshot of Main Page | Screenshot of Validated Data  | Screenshot of Correct Input |
+| ---------- | ---------- | ---------- |
+| ![Main Page Screenshot](img/Home.png) | ![Validated Data Screenshot](img/Error.png) | ![Correct Input Screenshot](img/Calculate.png) |
 
 | Skillset 10 | Skillset 11 | Skillset 12 |
 | ---------- | ---------- | ---------- |
