@@ -8,7 +8,7 @@
 
 1. Include splash screen image (or, create your own), app title, intro text.
 2. Include appropriate images.
-3. Must use persistent datA: SharedPreferences.
+3. Must use persistent data: SharedPreferences.
 4. Widgets and images must be vertically and horizontally alinged.
 5. Must add background color(s) or theme.
 6. Create and display launcher iron image.
@@ -26,11 +26,11 @@
 
 | Gif of running app | Screenshot of Splash Screen |
 | ---------- | ---------- | 
-| ![Running app](img/app.gif) | ![Screenshot of Splash Screen](img/Splash.png) |
+| ![Running app](img/house_app.gif) | ![Screenshot of Splash Screen](img/Splash.png) |
 
 | Screenshot of Main Page | Screenshot of Validated Data  | Screenshot of Correct Input |
 | ---------- | ---------- | ---------- |
-| ![Main Page Screenshot](img/Home.png) | ![Validated Data Screenshot](img/Error.png) | ![Correct Input Screenshot](img/Calculate.png) |
+| ![Main Page Screenshot](img/home.png) | ![Validated Data Screenshot](img/Error.png) | ![Correct Input Screenshot](img/Calculate.png) |
 
 | Skillset 10 | Skillset 11 | Skillset 12 |
 | ---------- | ---------- | ---------- |
