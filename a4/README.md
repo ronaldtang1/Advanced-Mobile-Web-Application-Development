@@ -34,7 +34,7 @@
 
 | Skillset 10 | Skillset 11 | Skillset 12 |
 | ---------- | ---------- | ---------- |
-| ![Screenshot of Skillset 10](img/travel.png) | ![Screenshot of Skillset 11](img/product.gif) | ![Screenshot of Skillset 12](img/Temperature_conversion.png)
+| ![Screenshot of Skillset 10](img/travel.png) | ![Screenshot of Skillset 11](img/product.gif) | ![Screenshot of Skillset 12](img/ss12.png)
 
 #### Bitbucket Link:
 
