@@ -30,7 +30,7 @@
 
 | Screenshot of Main Page | Screenshot of Validated Data  | Screenshot of Correct Input |
 | ---------- | ---------- | ---------- |
-| ![Main Page Screenshot](img/home.png) | ![Validated Data Screenshot](img/Error.png) | ![Correct Input Screenshot](img/Calculate.png) |
+| ![Main Page Screenshot](img/main_page.png) | ![Validated Data Screenshot](img/Error.png) | ![Correct Input Screenshot](img/Calculate.png) |
 
 | Skillset 10 | Skillset 11 | Skillset 12 |
 | ---------- | ---------- | ---------- |
