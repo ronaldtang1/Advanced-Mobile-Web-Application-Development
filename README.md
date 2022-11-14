@@ -33,13 +33,19 @@
     - Create and display launcher icon image
 
 5. [A5 README.md](a5/README.md "My A5 README.md file")
+    - Create News Reader App
+    - Include a main screen with app title and list of articles
+    - Use your own RSS feed
+    - Create and display launcher icon image
+    - Include scroll view
+    - Provide screenshots of application and skillsets
 
-6. [P1 README.md](p1/README.md "My P1 README.md file")
+1. [P1 README.md](p1/README.md "My P1 README.md file")
     - Splash screen image, app title, intro text
     - Include artists' images and media
     - Images and buttons must be vertically and horizontally aligned
     - Must add background color(s) or theme
     - Create and display launcher icon image
 
-7. [P2 README.md](p2/README.md "My P2 README.md file")
+2. [P2 README.md](p2/README.md "My P2 README.md file")
 
