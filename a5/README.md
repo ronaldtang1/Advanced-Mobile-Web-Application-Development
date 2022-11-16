@@ -20,9 +20,13 @@
 
 #### Assignment Screenshots:
 
-| Screenshot of Main Page | Screenshot of Individual Page  | Screenshot of Article Link |
-| ---------- | ---------- | ---------- |
-| ![Main Page Screenshot](img/main_page.png) | ![Individual Page Screenshot](img/Error.png) | ![Article Link Screenshot](img/Calculate.png) |
+| Gif of app | Screenshot of Main Page |
+| ---------- | ---------- |
+| ![Gif of news reader app](img/faster_app.gif) | ![Main Page Screenshot](img/main_page.png) |
+
+| Screenshot of Individual Page  | Screenshot of Article Link |
+| ---------- | ---------- |
+| ![Individual Page Screenshot](img/individual_article.png) | ![Article Link Screenshot](img/article_link.png) |
 
 | Skillset 13 | Skillset 14 | Skillset 15 |
 | ---------- | ---------- | ---------- |
