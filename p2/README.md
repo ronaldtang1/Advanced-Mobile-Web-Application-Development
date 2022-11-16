@@ -1,4 +1,4 @@
-# LIS 4381 - Mobile Web Application Development
+# LIS 4331 - Advanced Mobile Web Application Development
 
 ## Ronald Tang
 
@@ -6,45 +6,30 @@
 
 *Four parts:*
 
-1. Add edit functionality to the petstore database
-2. Add delete functionality to the petstore database
-3. Create a RSS feed
-4. Chapter Questions (ch. 13 & 14)
+1. Splash screen image, app title, intro text.
+2. Must use persistent data: SQLite database.
+3. Insert at least five users.
+4. Must add background color(s) or theme.
+5. Create and display launcher icon image.
 
 #### README.md file should include the following items:
 
-* Course title, Your name, Assignment Requirements
-* Screenshot of petstore database running on a browser
-* Screenshot of editing a record in the petstore database
-* Screenshot of the RSS feed
+* Course title, your name, assignment requirements, as per A1.
+* Screenshot of running application's splash screen.
+* Screenshot of running application's Main screen.
+* Screenshot of running application's add, update, and delete functions.
 
 #### Assignment Screenshots:
 
-*Screenshot of Online Portfolio*:
+| Gif of app | Splash Screen | Add User | 
+| ---------- | ---------- | ---------- |
+| ![Gif of app](img/error_petstore.png) |![Splash Screen Screenshot](img/splash_screen.png) | ![Add User Screenshot](img/add_user.png) | 
 
-![Online Portfolio Screenshot](img/Online_portfolio.png)
-
-*Screenshot of Index.php*:
-
-![Index.php Screenshot](img/index.png)
-
-*Screenshot of Edit petstore*:
-
-![Edit petstore Screenshot](img/edit_petstore.png)
-
-| Failed Validation | Successful Validation |
+| Update User | View Users | Delete User |
 | ---------- | ---------- |
-| ![Failed Validation](img/error_petstore.png) | ![Successful Validation](img/passed_validation.png) |
-
-| Delete Prompt | Successful Deletion |
-| ---------- | ---------- |
-| ![Delete Prompt](img/delete_prompt.png) | ![Successful Deletion](img/success_delete.png) |
-
-*Screenshot of RSS feed*:
-
-![RSS feed Screenshot](img/rss_feed.png)
+| ![Update User Screenshot](img/update.png) | ![View User Screenshot](img/view.png) | ![Delete User](img/delete.png) |
 
 #### Bitbucket Link:
 
 *My Remote repository:*
-[Remote repository](https://bitbucket.org/ronaldtang1/lis4381/ "Remote repository")
+[Remote repository](https://bitbucket.org/ronaldtang1/lis4331/ "Remote repository")
