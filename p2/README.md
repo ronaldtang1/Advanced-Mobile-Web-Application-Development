@@ -26,8 +26,8 @@
 | ![Gif of app](img/error_petstore.png) |![Splash Screen Screenshot](img/splash_screen.png) | ![Add User Screenshot](img/add_user.png) | 
 
 | Update User | View Users | Delete User |
-| ---------- | ---------- |
-| ![Update User Screenshot](img/update.png) | ![View User Screenshot](img/view.png) | ![Delete User](img/delete.png) |
+| ---------- | ---------- | ---------- |
+| ![Update User Screenshot](img/update.png) | ![View User Screenshot](img/new_view.png) | ![Delete User](img/delete.png) |
 
 #### Bitbucket Link:
 
