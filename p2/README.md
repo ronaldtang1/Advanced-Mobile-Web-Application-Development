@@ -23,7 +23,7 @@
 
 | Gif of app | Splash Screen | Add User | 
 | ---------- | ---------- | ---------- |
-| ![Gif of app](img/error_petstore.png) |![Splash Screen Screenshot](img/splash_screen.png) | ![Add User Screenshot](img/add_user.png) | 
+| ![Gif of app](img/fasterapp.gif) |![Splash Screen Screenshot](img/splash_screen.png) | ![Add User Screenshot](img/add_user.png) | 
 
 | Update User | View Users | Delete User |
 | ---------- | ---------- | ---------- |
